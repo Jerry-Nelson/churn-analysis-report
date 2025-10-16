@@ -1,6 +1,6 @@
 # Churn Analysis Dashboard
 
-![Dashboard Screenshot](dashboard-screenshot.png)
+<image-card alt="Dashboard Screenshot" src="Screenshot(13" ></image-card>.png)
 
 An interactive **Power BI dashboard** exploring customer churn in a telecom dataset, revealing a **27.0% overall churn rate** among 6,418 customers. Built with demographic, behavioral, and service-based breakdowns to uncover retention opportunities. Includes a detailed **Word report** with recommendations.
 
